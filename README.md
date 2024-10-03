@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SHAKIB-TAMIM
 - 👀 I’m interested in ... Web Developing AND Mobile App Development
-- 🌱 I’m currently learning ... HTMl,CSS,REACT,NODE.JS,FLUTTER
+- 🌱 I’m currently learning ... C++,HTMl,CSS,REACT,NODE.JS,FLUTTER
 - 📫 How to reach me ... [yemetee.kudasaiii@gmail.com]
